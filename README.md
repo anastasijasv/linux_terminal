@@ -1,3 +1,3 @@
-#Linux Terminal
+# Linux Terminal
 
 Basic Git Bash commands I have learned.
